@@ -49,12 +49,12 @@ while True:
 ## OUTPUT
 
 ##Client
-```
+
 ![image](https://github.com/YASHWINISEC/2a_Stop_and_Wait_Protocol/assets/139361633/18a671df-2999-4954-ba0d-7aa058c190c3)
-```
+
 ##Server
-```
+
 ![image](https://github.com/YASHWINISEC/2a_Stop_and_Wait_Protocol/assets/139361633/ca45b27c-fe77-4b74-b13c-1d4113c5bae4)
-```
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
